@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_restricted_caller_access">
+    <sys_restricted_caller_access action="INSERT_OR_UPDATE">
+        <operation>read</operation>
+        <source>c83af3559f01120034c6b6a0942e7033</source>
+        <source_scope display_value="Security Support Common">f38c97005301120034c69816a11c081d</source_scope>
+        <source_table>sys_script_include</source_table>
+        <source_type>2</source_type>
+        <status>2</status>
+        <sys_class_name>sys_restricted_caller_access</sys_class_name>
+        <sys_created_by>beth.anglin</sys_created_by>
+        <sys_created_on>2018-04-11 02:09:06</sys_created_on>
+        <sys_id>30c5e30fdb1d130060d1f34ebf961981</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>82878663ff123100158bffffffffff67</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_restricted_caller_access_30c5e30fdb1d130060d1f34ebf961981</sys_update_name>
+        <sys_updated_by>beth.anglin</sys_updated_by>
+        <sys_updated_on>2018-04-11 02:09:06</sys_updated_on>
+        <target name="sn_si_calculator_group" target_table="sys_db_object">7fca25e2db51130060d1f34ebf961908</target>
+        <target_scope display_value="Security Incident">82878663ff123100158bffffffffff67</target_scope>
+        <target_table>sys_db_object</target_table>
+        <target_type>1</target_type>
+    </sys_restricted_caller_access>
+</record_update>
